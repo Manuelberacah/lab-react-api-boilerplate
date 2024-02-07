@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.content{
+  display: flex;
+  align-items: center;
+  border: 3px solid white;
+  margin-top: 10px;
+  padding: 0 10px;
+}
+
+.content div{
+  margin-right: 20px;
+}
+
+
